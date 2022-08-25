@@ -8,4 +8,9 @@ This project also features user account functionality such as login and registra
 
 ## Technologies used: Android Studio, Firebase
 
-![alt text](http://screenshots/facerace1.jpg)
+![alt text](https://github.com/jshmartin/FaceRace/blob/master/screenshots/facerace1.jpg)
+![alt text](https://github.com/jshmartin/FaceRace/blob/master/screenshots/facerace2.jpg)
+![alt text](https://github.com/jshmartin/FaceRace/blob/master/screenshots/facerace3.jpg)
+![alt text](https://github.com/jshmartin/FaceRace/blob/master/screenshots/facerace4.jpg)
+![alt text](https://github.com/jshmartin/FaceRace/blob/master/screenshots/facerace5.jpg)
+![alt text](https://github.com/jshmartin/FaceRace/blob/master/screenshots/facerace6.jpg)
