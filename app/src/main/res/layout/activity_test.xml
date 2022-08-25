@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".TestActivity" >
+
+    <FrameLayout
+        android:id="@+id/frameLayout_game"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@drawable/blue_bg"
+        app:layout_constraintBottom_toTopOf="@+id/fragmentContainerView_main"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:id="@+id/title_textView_test"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_gravity="center"
+        android:text="@string/memorise_here_label"
+        android:textAlignment="center"
+        android:textSize="34sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView_test"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/memorise_rules"
+        android:textSize="16sp" />
+
+    <Button
+        android:id="@+id/button_test_continue"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/continue_button" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerView_test"
+        android:layout_width="match_parent"
+        android:layout_height="450dp" />
+
+</LinearLayout>
