@@ -7,3 +7,5 @@ The objective of the game is to guess the correct faces that appear to the playe
 This project also features user account functionality such as login and registration.
 
 ## Technologies used: Android Studio, Firebase
+
+![alt text](http://screenshots/facerace1.jpg)
